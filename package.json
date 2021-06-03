@@ -1,0 +1,25 @@
+{
+  "name": "pransh",
+  "version": "1.0.0",
+  "description": "Pranshu Khanna",
+  "main": "index.js",
+  "bin": {
+		"info": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pransh",
+    "Pranshu",
+    "Khanna",
+    "pransh15",
+    "inmypranshoes"
+  ],
+  "author": "pranshu@graphcms.com",
+  "license": "ISC",
+  "bugs": {
+		"url": "https://github.com/pransh15/pransh/issues"
+	},
+	"homepage": "https://github.com/pransh15/pransh#readme"
+}
